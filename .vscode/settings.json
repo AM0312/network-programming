@@ -1,0 +1,13 @@
+{
+  "cmake.configureOnOpen": true,
+  "files.associations": {
+    ".env": "plaintext",
+    "inet.h": "c",
+    "netdb.h": "c",
+    "unistd.h": "c",
+    "in.h": "c",
+    "string.h": "c",
+    "features.h": "c",
+    "strings.h": "c"
+  }
+}

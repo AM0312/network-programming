@@ -26,7 +26,7 @@ int max(int x, int y)
 
 int main()
 {
-    int tfd, ufd, tcli[MAX], max_cli = MAX, ucli, sd, valread, activity;
+    int tfd, ufd, tcli[MAX], max_cli = MAX, sd, valread, activity;
     int max_sd;
     int new_socket;
     char buff[1025];

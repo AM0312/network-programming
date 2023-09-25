@@ -8,6 +8,9 @@
     "in.h": "c",
     "string.h": "c",
     "features.h": "c",
-    "strings.h": "c"
+    "strings.h": "c",
+    "types.h": "c",
+    "select.h": "c",
+    "stdlib.h": "c"
   }
 }
